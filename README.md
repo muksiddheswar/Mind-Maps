@@ -7,7 +7,6 @@ Keeping it as open source and rudimentary as possible.
 
 ### Creational
 
-- Types
 ```
 - Abstract factory
 - Builder 
