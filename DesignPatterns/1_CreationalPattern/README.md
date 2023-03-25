@@ -15,6 +15,3 @@
 7. `Prototype pattern:` Used when the type of objects to create is determined by a prototypical instance, which is cloned to produce new objects.
 
 8. `Singleton pattern:` restrict instantiation of a class to one object.
-
-
-2:19 PM 25/3/2023
