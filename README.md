@@ -7,11 +7,15 @@ Keeping it as open source and rudimentary as possible.
 
 ### Creational
 
-- `Abstract factory`
-- `Builder` 
-- `Factory method`
-- `Prototype` 
-- `Singleton` 
+- Types
+```
+- Abstract factory
+- Builder 
+- Factory method
+- Prototype 
+- Singleton 
+```
+- Object composition
 
 ### Structural
 
