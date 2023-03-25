@@ -15,7 +15,6 @@ Keeping it as open source and rudimentary as possible.
 - Prototype 
 - Singleton 
 ```
-- Object composition
 
 ### Structural
 
