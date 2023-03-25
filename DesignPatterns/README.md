@@ -1,12 +1,18 @@
 # Design Patterns
 
+# Design Patterns
+
 ### Creational
 
-- `Abstract factory`
-- `Builder` 
-- `Factory method`
-- `Prototype` 
-- `Singleton` 
+- Types
+```
+- Abstract factory
+- Builder 
+- Factory method
+- Prototype 
+- Singleton 
+```
+- Object composition
 
 ### Structural
 
